@@ -1,4 +1,5 @@
-# Site Petlife
- Site criado na trilha da programação da onebitcode
+# Site Teste
  
- Usando HTML, CSS e JavaScript;
+ Modelo criado na introdução ao Git e GitHub
+ 
+ Usando algumas funcionalidades junto ao HTML, CSS e JavaScript;
